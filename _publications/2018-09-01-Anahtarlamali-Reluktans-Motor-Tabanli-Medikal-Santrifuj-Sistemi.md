@@ -3,8 +3,9 @@ title: "Anahtarlamali Reluktans Motor Tabanli Medikal Santrifuj Sistemi"
 collection: publications
 permalink: /publication/2018-09-01-Anahtarlamali-Reluktans-Motor-Tabanli-Medikal-Santrifuj-Sistemi
 date: 2018-09-01
-venue: 'Anahtarlamali Reluktans Motor Tabanli Medikal Santrifuj Sistemi'
+venue: 'Gazi universitesi Fen Bilimleri Dergisi Part C: Tasarim ve Teknoloji'
 paperurl: 'https://dergipark.org.tr/en/pub/gujsc/issue/39144/368371'
-citation: '&quot;Anahtarlamali Reluktans Motor Tabanli Medikal Santrifuj Sistemi.&quot; Anahtarlamali Reluktans Motor Tabanli Medikal Santrifuj Sistemi, 2018.'
+citation: 'Fen Gazi, Dergisi Bilimleri, ustkoyuncu Nurettin, Erogul Osman, Anahtarlamali Reluktans Motor Tabanli Medikal Santrifuj Sistemi"
+Gazi universitesi Fen Bilimleri Dergisi Part C: Tasarim ve Teknoloji, 2018'
 ---
 [Access paper here](https://dergipark.org.tr/en/pub/gujsc/issue/39144/368371){:target="_blank"}

@@ -3,8 +3,9 @@ title: "Identification of TLE Focus from EEG Signals by Using Deep Learning Appr
 collection: publications
 permalink: /publication/2023-07-01-Identification-of-TLE-Focus-from-EEG-Signals-by-Using-Deep-Learning-Approach
 date: 2023-07-01
-venue: 'Identification of TLE Focus from EEG Signals by Using Deep Learning Approach'
-paperurl: 'https://www.mdpi.com/2075-4418/13/13/2261'
-citation: '&quot;Identification of TLE Focus from EEG Signals by Using Deep Learning Approach.&quot; Identification of TLE Focus from EEG Signals by Using Deep Learning Approach, 2023.'
+venue: 'Diagnostics 2023, Vol. 13, Page 2261'
+paperurl: 'https://www.mdpi.com/2075-4418/13/13/2261/htm https://www.mdpi.com/2075-4418/13/13/2261'
+citation: 'Ficici Cansel, Telatar Ziya, Kocak Onur, Erogul Osman, Identification of TLE Focus from EEG Signals by Using Deep Learning Approach"
+Diagnostics 2023, Vol. 13, Page 2261, 2023'
 ---
-[Access paper here](https://www.mdpi.com/2075-4418/13/13/2261){:target="_blank"}
+[Access paper here](https://www.mdpi.com/2075-4418/13/13/2261/htm https://www.mdpi.com/2075-4418/13/13/2261){:target="_blank"}

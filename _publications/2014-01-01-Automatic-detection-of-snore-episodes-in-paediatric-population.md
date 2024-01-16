@@ -3,7 +3,8 @@ title: "Automatic detection of snore episodes in paediatric population"
 collection: publications
 permalink: /publication/2014-01-01-Automatic-detection-of-snore-episodes-in-paediatric-population
 date: 2014-01-01
-venue: 'Automatic detection of snore episodes in paediatric population'
-citation: '&quot;Automatic detection of snore episodes in paediatric population.&quot; Automatic detection of snore episodes in paediatric population, 2014.'
+venue: '2014 22nd Signal Processing and Communications Applications Conference (SIU)'
+citation: 'cavusoglu Mustafa, Kamasak Mustafa, Burger Harold, Erogul Osman, Brockmann Pablo, Poets Christian, Urschitz Michael, Automatic detection of snore episodes in paediatric population"
+2014 22nd Signal Processing and Communications Applications Conference (SIU), 2014'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Automatic+detection+of+snore+episodes+in+paediatric+population){:target="_blank"} for full citation

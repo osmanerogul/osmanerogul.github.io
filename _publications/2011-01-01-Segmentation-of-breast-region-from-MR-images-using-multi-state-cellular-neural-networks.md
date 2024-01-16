@@ -3,7 +3,8 @@ title: "Segmentation of breast region from MR images using multi-state cellular 
 collection: publications
 permalink: /publication/2011-01-01-Segmentation-of-breast-region-from-MR-images-using-multi-state-cellular-neural-networks
 date: 2011-01-01
-venue: 'Segmentation of breast region from MR images using multi-state cellular neural networks'
-citation: '&quot;Segmentation of breast region from MR images using multi-state cellular neural networks.&quot; Segmentation of breast region from MR images using multi-state cellular neural networks, 2011.'
+venue: '2011 7th International Conference on Electrical and Electronics Engineering (ELECO)'
+citation: 'Demirgunes Dogan, Ertas GOkhan, Ilica Turan, Erogul Osman, Telatar Ziya, Segmentation of breast region from MR images using multi-state cellular neural networks"
+2011 7th International Conference on Electrical and Electronics Engineering (ELECO), 2011'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Segmentation+of+breast+region+from+MR+images+using+multi+state+cellular+neural+networks){:target="_blank"} for full citation
