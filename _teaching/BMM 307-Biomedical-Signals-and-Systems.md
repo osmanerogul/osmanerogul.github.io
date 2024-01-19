@@ -16,7 +16,7 @@ Topics
 This course covers essential topics in biomedical engineering, focusing on;
 <ul>
   <li>focusing on physiological signals (ECG, EEG, EMG, EOG, ENG) and physiological control systems</li>
-  <li>signal representation in both time domains</li>
+  <li>signal representation in both time domains and frequency domains</li>
   <li>continuous and discrete signals</li>
   <li>explore key concepts like doubling of continuous time and discrete time signals</li>
   <li>linear time-invariant systems</li>
