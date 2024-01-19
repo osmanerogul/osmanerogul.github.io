@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2023-02-01-Plasma-Assisted-Surface-Modification-and-Heparin-Immobilization-Dual-Functionalized-Blood-Contacting-Biomaterials-with-Improved-Hemocompatibility-and-Antibacterial-Features
 date: 2023-02-01
 venue: 'Advanced Materials Interfaces'
-paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/admi.202202009 https://onlinelibrary.wiley.com/doi/abs/10.1002/admi.202202009 https://onlinelibrary.wiley.com/doi/10.1002/admi.202202009'
-citation: 'Ozguzar Hatice, Evren Ebru, Meydan Ahmet, Kabay Gozde, GOcmen Julide, Buyukserin Fatih, Erogul Osman, Plasma-Assisted Surface Modification and Heparin Immobilization: Dual-Functionalized Blood-Contacting Biomaterials with Improved Hemocompatibility and Antibacterial Features"
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/admi.202202009'
+citation: 'Ozguzar Hatice, Evren Ebru, Meydan Ahmet, Kabay Gozde, Gocmen Julide, Buyukserin Fatih, Erogul Osman, Plasma-Assisted Surface Modification and Heparin Immobilization: Dual-Functionalized Blood-Contacting Biomaterials with Improved Hemocompatibility and Antibacterial Features"
 Advanced Materials Interfaces, 2023'
 ---
 [Access paper here](https://onlinelibrary.wiley.com/doi/full/10.1002/admi.202202009 https://onlinelibrary.wiley.com/doi/abs/10.1002/admi.202202009 https://onlinelibrary.wiley.com/doi/10.1002/admi.202202009){:target="_blank"}
