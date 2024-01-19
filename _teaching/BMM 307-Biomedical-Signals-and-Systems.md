@@ -25,6 +25,6 @@ This course covers essential topics in biomedical engineering, focusing on;
 </ul>
 Students gain a foundational understanding for informed decision-making in scientific and healthcare contexts.
 
-The course equips students to apply signal processing techniques in the biomedical field.
+The course equips students to apply signal processing techniques in the biomedical signal processing and system modelling.
 
 <p><em>Last updated: [Insert Date]</em></p>
