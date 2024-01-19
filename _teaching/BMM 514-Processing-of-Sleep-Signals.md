@@ -1,7 +1,7 @@
 ---
 title: "BMM 514 Processing of Sleep Signals"
 collection: teaching
-type: "<b>Grad Course</b>, 2014-15 Summer"
+type: "<b>Graduate Lecture</b>, 2014-15 Summer"
 permalink: /teaching/BMM 514-Processing-of-Sleep-Signals
 venue: "TOBB University, Biomedical Engineering"
 date: 2015-01-01

@@ -1,7 +1,7 @@
 ---
 title: "BMM 307 Biomedical Signals and Systems"
 collection: teaching
-type: "<b>Undergrad Course</b>, 2023-24 Spring"
+type: "<b>Undergraduate Lecture</b>, 2023-24 Spring"
 permalink: /teaching/BMM 307-Biomedical-Signals-and-Systems
 venue: "TOBB ETU, Biomedical Engineering"
 date: 2024-01-01

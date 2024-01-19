@@ -1,7 +1,7 @@
 ---
 title: "Health Technologies and Management"
 collection: teaching
-type: "<b>Grad course</b>"
+type: "<b>Graduate Lecture</b>"
 permalink: /teaching/Health-Technologies-and-Management
 venue: "GATA Health Sciences, Institute  of Health Services Management"
 date: 2010-01-01

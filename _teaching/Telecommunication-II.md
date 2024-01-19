@@ -1,7 +1,7 @@
 ---
 title: "Telecommunication - II"
 collection: teaching
-type: "<b>Undergrad Course</b>"
+type: "<b>Undergraduate Lecture</b>"
 permalink: /teaching/Telecommunication-II
 venue: "Turkish Military Academy, Electronic Department"
 date: 2010-01-01

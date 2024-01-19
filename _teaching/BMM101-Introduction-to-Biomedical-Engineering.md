@@ -1,7 +1,7 @@
 ---
 title: "BMM101 Introduction to Biomedical Engineering"
 collection: teaching
-type: "<b>Undergrad Course</b>, 2014-15 Fall"
+type: "<b>Undergraduate Lecture</b>, 2014-15 Fall"
 permalink: /teaching/BMM101-Introduction-to-Biomedical-Engineering
 venue: "TOBB ETU Biomedical Engineering"
 date: 2014-09-01

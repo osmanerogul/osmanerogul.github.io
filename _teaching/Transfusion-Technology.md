@@ -1,7 +1,7 @@
 ---
 title: "Transfusion Technology"
 collection: teaching
-type: "<b>Grad Course</b>"
+type: "<b>Graduate Lecture</b>"
 permalink: /teaching/Transfusion-Technology
 venue: "GATA Health Sciences, Institute of Health Services Management"
 date: 2010-01-01

@@ -1,7 +1,7 @@
 ---
 title: "BMM 491 Medical Imaging Systems"
 collection: teaching
-type: "<b>Undergrad Course</b>, 2014-15 Summer"
+type: "<b>Undergraduate Lecture</b>, 2014-15 Summer"
 permalink: /teaching/BMM 491-Medical-Imaging-Systems
 venue: "TOBB ETU, Biomedical Engineering"
 date: 2014-01-01

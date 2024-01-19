@@ -1,7 +1,7 @@
 ---
 title: "ELM 253 Circuit Analysis Laboratory - II"
 collection: teaching
-type: "<b>Undergrad Course</b>, 2014-15 Fall"
+type: "<b>Undergraduate Lecture</b>, 2014-15 Fall"
 permalink: /teaching/ELM 254-Circuit-Analysis-Laboratory-II
 venue: "Ankara University Electrical Electronics Engineering"
 date: 2014-04-01

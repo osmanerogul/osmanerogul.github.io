@@ -1,7 +1,7 @@
 ---
 title: "Advanced Topics in Medical Imaging Systems"
 collection: teaching
-type: "<b>Grad Course</b>"
+type: "<b>Graduate Lecture</b>"
 permalink: /teaching/Advanced-Topics-in-Medical-Imaging-Systems
 venue: "Başkent University, Biomedical Engineering"
 date: 2010-01-01

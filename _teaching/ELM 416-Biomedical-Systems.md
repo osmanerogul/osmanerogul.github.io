@@ -1,7 +1,7 @@
 ---
 title: "ELM 416 Biomedical Systems"
 collection: teaching
-type: <b>Undergrad Course</b>, 2014-15 Spring
+type: <b>Undergraduate Lecture</b>, 2014-15 Spring
 permalink: /teaching/ELM 416-Biomedical-Systems
 venue: "Ankara University Electrical Electronics Engineering"
 date: 2014-04-01

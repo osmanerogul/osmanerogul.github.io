@@ -1,7 +1,7 @@
 ---
 title: "Telecommunication - I"
 collection: teaching
-type: "<b>Undergrad ourse</b>"
+type: "<b>Undergraduate Lecture</b>"
 permalink: /teaching/Telecommunication-I
 venue: "Turkish Military Academy, Electronic Department"
 date: 2010-01-01
