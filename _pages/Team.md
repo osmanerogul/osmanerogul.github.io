@@ -23,23 +23,23 @@ author_profile: true
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><img src='/images/mertcan.png' width="100" height="100"><br><b>Mertcan ÖZDEMİR</b> &#129316;</td>
-    <td class="tg-c3ow"><img src='/images/sinan.png' width="100" height="100"><br><b>Sinan KOSTAKOĞLU</b> &#129312;</td>
+    <td class="tg-c3ow"><img src='/images/mertcan.PNG' width="100" height="100"><br><b>Mertcan ÖZDEMİR</b> &#129316;</td>
+    <td class="tg-c3ow"><img src='/images/sinan.PNG' width="100" height="100"><br><b>Sinan KOSTAKOĞLU</b> &#129312;</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img src='/images/farhad.png' width="100" height="100"><br><b>Farhad NASSEHİ</b> &#129300;</td>
+    <td class="tg-c3ow"><img src='/images/farhad.PNG' width="100" height="100"><br><b>Farhad NASSEHİ</b> &#129300;</td>
     <td class="tg-c3ow"><span style='font-size:100px;'>&#129488;</span><br><b>Melike CANYURT</b> &#129488; </td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img src='/images/Cagri.png' width="100" height="100"><br><b>Çağrı YILMAZER</b> &#128526; </td>
+    <td class="tg-c3ow"><img src='/images/Cagri.PNG' width="100" height="100"><br><b>Çağrı YILMAZER</b> &#128526; </td>
     <td class="tg-c3ow"><span style='font-size:100px;'>&#129488;</span><br><b>Büşra ÜNLÜ</b> &#129488; </td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img src='/images/erdem.png' width="100" height="100"><br><b>Erdem İnanç BUDAK</b> &#129398; </td>
+    <td class="tg-c3ow"><img src='/images/erdem.PNG' width="100" height="100"><br><b>Erdem İnanç BUDAK</b> &#129398; </td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><img src='/images/sule.png' width="100" height="100"><br><b>Şule Berna ÇALIŞKAN</b> &#129303; </td>
+    <td class="tg-c3ow"><img src='/images/sule.PNG' width="100" height="100"><br><b>Şule Berna ÇALIŞKAN</b> &#129303; </td>
     <td class="tg-c3ow"></td>
   </tr>
 </tbody>
@@ -63,10 +63,10 @@ author_profile: true
 </thead>
 <tbody>
   <tr>
-    <td class="tg-pb0m"><span style="font-weight:bold"><img src='/images/galip.png' width="100" height="100"><br>Galip ÖZDEMİR</span></td>
+    <td class="tg-pb0m"><span style="font-weight:bold"><img src='/images/galip.PNG' width="100" height="100"><br>Galip ÖZDEMİR</span></td>
   </tr>
   <tr>
-    <td class="tg-pb0m"><span style="font-weight:bold"><img src='/images/huseyin.png' width="100" height="100"><br>Hüseyin NASIFOĞLU</span></td>
+    <td class="tg-pb0m"><span style="font-weight:bold"><img src='/images/huseyin.PNG' width="100" height="100"><br>Hüseyin NASIFOĞLU</span></td>
   </tr>
 </tbody>
 </table>
