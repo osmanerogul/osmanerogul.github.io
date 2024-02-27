@@ -22,4 +22,4 @@ Topics include;
 Students gain a foundational understanding for informed decision-making in scientific and healthcare contexts.
 
 Project Format:
-Link to [Project Document Page]({{ osmanerogul.github.io }}/non-menu-page/BMM-473-Project.html) directly.
+Link to [Project Document Page]({{ osmanerogul.github.io }}/BMM-473-Project.html) directly.

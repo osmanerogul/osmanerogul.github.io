@@ -3,12 +3,12 @@ title: "BMM 473 Radiation Physics Project Format"
 collection: non-menu-page
 type: "<b>Undergraduate Lecture</b>, 2023-24 Spring"
 date: 2024-02-27
-permalink: /non-menu-page/BMM-473-Project
+permalink: BMM-473-Project
 ---
 
 **BMM 473-RADIATION PHISICS PROJECT REPORT FORMAT**
 
-You can [get the DOCX]({{ osmanerogul.github.io }}/images/BMM-473-Report-Format.docx) directly.
+You can [get the DOCX]({{ osmanerogul.github.io }}/documents/BMM-473-Report-Format.docx) directly.
 
 
 The project report can be created in either MS Word or LaTeX environment. If you prefer to prepare your report in LaTex format, please send an e-mail to (<mertcanozdemir@etu.edu.tr>) and we will create a suitable format for you. Please note that this document has been designed for Ms Word documentation.
