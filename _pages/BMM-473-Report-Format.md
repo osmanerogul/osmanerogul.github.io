@@ -1,6 +1,5 @@
 ---
 title: "BMM 473 Project Report Layout"
-collection: non-menu-page
 type: "<b>Undergraduate Lecture</b>, 2023-24 Spring"
 date: 2024-02-27
 permalink: BMM-473-Project
