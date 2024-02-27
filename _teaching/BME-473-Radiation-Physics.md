@@ -21,5 +21,9 @@ Topics include;
 </ul>
 Students gain a foundational understanding for informed decision-making in scientific and healthcare contexts.
 
-Project Format:
+**Project Report Layout:**
 Link to [Project Document Page]({{ osmanerogul.github.io }}/BMM-473-Project.html) directly.
+
+**Teaching Assistant:** Mertcan Özdemir - [mertcanozdemir@etu.edu.tr](mailto:mertcanozdemir@etu.edu.tr)
+
+<p><em>Last updated: 27/02/2024</em></p>

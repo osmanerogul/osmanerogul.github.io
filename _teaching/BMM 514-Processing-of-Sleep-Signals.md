@@ -8,13 +8,4 @@ date: 2015-01-01
 location: "Ankara, Türkiye"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The lecture on "Processing of Sleep Signals" delves into the intricate realm of sleep signal analysis and the methodologies employed to interpret and understand the complex patterns associated with sleep. This lecture covers various aspects, including the acquisition of sleep signals through technologies such as polysomnography, electroencephalography (EEG), electromyography (EMG), and electrooculography (EOG).
