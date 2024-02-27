@@ -24,7 +24,7 @@ author_profile: true
 <tbody>
   <tr>
     <td class="tg-c3ow"><img src='/images/mertcan.png' width="100" height="100"><br><b>Mertcan ÖZDEMİR</b> &#129316;</td>
-    <td class="tg-c3ow"><span style='font-size:100px;'>&#129312;</span><br><b>Sinan KOSTAKOĞLU</b> &#129312;</td>
+    <td class="tg-c3ow"><img src='/images/sinan.png' width="100" height="100"><br><b>Sinan KOSTAKOĞLU</b> &#129312;</td>
   </tr>
   <tr>
     <td class="tg-c3ow"><img src='/images/farhad.png' width="100" height="100"><br><b>Farhad NASSEHİ</b> &#129300;</td>
