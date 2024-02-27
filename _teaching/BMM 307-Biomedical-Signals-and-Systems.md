@@ -27,4 +27,4 @@ Students gain a foundational understanding for informed decision-making in scien
 
 The course equips students to apply signal processing techniques in the biomedical signal processing and system modelling.
 
-<p><em>Last updated: [Insert Date]</em></p>
+<p><em>Last updated: 27/02/2024</em></p>

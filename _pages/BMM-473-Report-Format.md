@@ -1,17 +1,16 @@
 ---
-title: "BMM 473 Radiation Physics Project Format"
+title: "BMM 473 Project Report Layout"
 collection: non-menu-page
 type: "<b>Undergraduate Lecture</b>, 2023-24 Spring"
 date: 2024-02-27
-permalink: /non-menu-page/BMM-473-Project
+permalink: BMM-473-Project
 ---
 
-**BMM 473-RADIATION PHISICS PROJECT REPORT FORMAT**
 
-You can [get the DOCX]({{ osmanerogul.github.io }}/images/BMM-473-Report-Format.docx) directly.
+You can [get the DOCX]({{ osmanerogul.github.io }}/documents/BMM-473-Report-Format.docx) directly.
 
 
-The project report can be created in either MS Word or LaTeX environment. If you prefer to prepare your report in LaTex format, please send an e-mail to (<mertcanozdemir@etu.edu.tr>) and we will create a suitable format for you. Please note that this document has been designed for Ms Word documentation.
+The project report can be created in either **MS Word** or **LaTeX** environment. If you prefer to prepare your report in LaTex format, please send an e-mail to (<mertcanozdemir@etu.edu.tr>) and we will create a suitable format for you. Please note that this document has been designed for Ms Word documentation.
 
 The content of the project report should be arranged in the following order:
 
@@ -21,19 +20,19 @@ The last section contains the cover template, which should include the project n
 
 **Preface**
 
-Introduce the project briefly in 2-3 sentences.
+Introduce the project briefly in **2-3 sentences**.
 
 **Table of Contents**
 
 The report should be prepared in a way that gives the headings, subheadings and page numbers of these headings.
 
-**Lists** **Of** **Tables** **and** **Figures**
+**Lists** **of** **Tables** **and** **Figures**
 
 It should be prepared to include table and figure names and page numbers, and should be given after the contents section.
 
 **Abstract**
 
-The purpose, scope, and method(s) used of the studies carried out within the scope of the project should be stated clearly and concisely. At the end of the Summary and Abstract, attention should be paid to writing the keywords. It should be between 100 to 300 words in length.
+The purpose, scope, and method(s) used of the studies carried out within the scope of the project should be stated clearly and concisely. At the end of the Summary and Abstract, attention should be paid to writing the keywords. It should be **between 100 to 300** words in length.
 
 **Main Text**
 
@@ -45,7 +44,7 @@ This section includes any supplementary materials such as tables, figures, and s
 
 **Document** **Format**
 
-It should be written in “Arial” font, 11 font size, 1.5 line spacing, with right, left and bottom margins of 2.5 cm, and upper margins of 3 cm. The text should be in a single column (Do not split the page into two).
+It should be written in **“Arial” font, 11 font size*, 1.5 line spacing,** with right, left and bottom margins of 2.5 cm, and upper margins of 3 cm. The text should be in a single column (Do not split the page into two).
 
 **Page Numbers**
 
@@ -55,7 +54,7 @@ All page numbers should be in the same font and size, centered at the bottom of 
 
 Section headings should be numbered according to the following format. In main subject headings, the title is centered, a period is placed after the number, and the words are written in capital letters and bold.
 
-**1\. SECTION TITLE**
+<p style="text-align: center;"><b>1. SECTION TITLE</b></p>
 
 Subheadings should be aligned to the left, and a period should be placed only between two numbers. Words should start with capital letters and be written in bold. Using more than two subheadings should be avoided.
 
@@ -77,19 +76,20 @@ Figure 1. Title of the figure
 
 **List of Resources and Citations**
 
-**Resources**
 
 You can use the Google Scholar extension on Google Chrome to add sources conveniently (refer to Figures 1 and 2). In the text, references should be numbered sequentially such as \[1\], \[2\], \[3\] etc. Finally, all references should be added in order under the heading 'Bibliography' on the last page of the report.
 
 
+<img src='/images/Figure1.png'>
 
 **Figure 1 Google Scholar extention**
 
 
+<img src='/images/Figure2.png'>
 
 **Figure 2 APA format**
 
-1. **Periodic** **publications**:
+**1. Periodic** **publications**:
 
 Author's surname, initials of the author's name. Year. Article Title, Journal Name, Volume (Issue), Page Numbers.
 
@@ -99,7 +99,7 @@ Huth, E. J. (1986). Guidelines on authorship of medical papers. Annals of Intern
 
 Özsoylu, Ş., & Koçak, N. (1973). Teal Histiocytosis. Journal of Child Health and Diseases, 16, 304-9.
 
-**Book:**
+**2. Book:**
 
 Author's surname, initials of the author's name. Year. Name of the book (Print number). Place of Publication: Publishing House.
 
@@ -107,7 +107,7 @@ _Example:_
 
 Sertöz, S. 2008. The Bright World of Mathematics (28th Edition). Ankara: TÜBİTAK Publications.
 
-2. **Chapter in the book:**
+**3. Chapter in the book:**
 
 Author's surname, initials of the author's name. Year. “Chapter title” or page numbers. The name of the book. Editor(s)/Preparer(s): Editor/Preparer's surname, initials of the Editor/Preparer's name. Place of Publication: Publishing House.
 
@@ -115,7 +115,7 @@ _Example:_
 
 Arıman, A. 1978. Page 41. Progress in Particle and Nuclear Physics. Editor: Wilconsin, D. New York: Pergamon.
 
-3. **Texts on the Internet:**
+**4. Texts on the Internet:**
 
 Author's surname, initials of the author's name. “Text title”. The name of the internet address where the text was published.
 
