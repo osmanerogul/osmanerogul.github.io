@@ -23,7 +23,7 @@ author_profile: true
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><img src='/images/mertcan.jpg' width="100" height="100"><br><b>Mertcan ÖZDEMİR</b> &#129316;</td>
+    <td class="tg-c3ow"><img src='/images/mertcan.jpg' width="100" height="100"><br><b>Mertcan ÖZDEMİR</b>  &#129316;</td>
     <td class="tg-c3ow"><img src='/images/sinan.PNG' width="100" height="100"><br><b>Sinan KOSTAKOĞLU</b> &#129312;</td>
   </tr>
   <tr>
