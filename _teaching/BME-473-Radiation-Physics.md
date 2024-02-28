@@ -89,7 +89,7 @@ Link to [Project Document Layout Page]({{ osmanerogul.github.io }}/BMM-473-Proje
     <td class="tg-gfnm">191701030<br>191701013</td>
   </tr>
   <tr>
-    <td class="tg-4p2o">Tiroid Kanserinde Biomarkerlarla Diagnosis</td>
+    <td class="tg-4p2o">Biomarkers used in Thyroid Cancer Imagining</td>
     <td class="tg-z8e9">Ecem Berfi Canyurt</td>
     <td class="tg-gfnm">181701037</td>
   </tr>
