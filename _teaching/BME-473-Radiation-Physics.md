@@ -28,134 +28,132 @@ Link to [Project Document Layout Page]({{ osmanerogul.github.io }}/BMM-473-Proje
 
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin:0px auto;}
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4fps{background-color:#efefef;border-color:#000000;color:#000000;text-align:left;vertical-align:top}
-.tg .tg-rbwf{background-color:#efefef;border-color:#000000;text-align:left;vertical-align:top}
 .tg .tg-dkf2{background-color:#EFEFEF;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-gfnm{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:middle}
-.tg .tg-emon{background-color:#efefef;border-color:#000000;text-align:left;vertical-align:bottom}
+.tg .tg-mz41{background-color:#EFEFEF;border-color:#000000;text-align:left;vertical-align:middle}
+.tg .tg-zegt{background-color:#efefef;border-color:#000000;color:#000000;font-size:16px;font-weight:bold;text-align:center;
+  vertical-align:middle}
 .tg .tg-j4pq{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-z8e9{background-color:#efefef;border-color:#000000;text-align:left;vertical-align:middle}
-.tg .tg-3fas{background-color:#efefef;border-color:#000000;text-align:left;vertical-align:middle}
-.tg .tg-sjcv{background-color:#EFEFEF;border-color:#000000;text-align:left;vertical-align:top}
-.tg .tg-us7e{background-color:#efefef;border-color:#343434;color:#000000;font-size:16px;font-weight:bold;text-align:center;
-  vertical-align:bottom}
-.tg .tg-da41{background-color:#efefef;border-color:#000000;color:#fe0000;text-align:left;vertical-align:top}
-.tg .tg-49yp{background-color:#EFEFEF;border-color:#000000;color:#FE0000;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 765px">
+.tg .tg-vwfk{background-color:#EFEFEF;border-color:#000000;color:#000000;text-align:left;vertical-align:middle}
+.tg .tg-4p2o{background-color:#efefef;border-color:#000000;color:#000000;text-align:left;vertical-align:middle}
+.tg .tg-cbi0{background-color:#efefef;border-color:#000000;color:#9a0000;text-align:left;vertical-align:middle}
+.tg .tg-3iuw{background-color:#EFEFEF;border-color:#000000;color:#9a0000;text-align:left;vertical-align:middle}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 719px">
 <colgroup>
-<col style="width: 463px">
-<col style="width: 192px">
-<col style="width: 110px">
+<col style="width: 453px">
+<col style="width: 181px">
+<col style="width: 85px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-us7e" colspan="3"><span style="font-weight:bold">BMM 473-Project List</span></th>
+    <th class="tg-zegt" colspan="3"><span style="font-weight:bold">BMM 473-Project List</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3fas">Kalp Damar Cerrahisi Gibi Cerrahi Branşlar Ve Nöroloji Gibi Cerrahi Olmayan Tıp Alanlarını Kapsayan Tıp Uzmanlık Alanlarınıda İonize Ve Nonionize Radyosyonların İlgili Doktora, Hastaya Potansiyel Etkileri.</td>
+    <td class="tg-vwfk">Radiation Therapy in Cancer Treatment</td>
+    <td class="tg-mz41">Seray Erdoğan<br>Yiğit Mehmet Uzunkaya</td>
+    <td class="tg-dkf2">201701029<br>191701012</td>
+  </tr>
+  <tr>
+    <td class="tg-4p2o">Tıp Uzmanlık Alanlarınıda İonize Ve Nonionize Radyosyonların İlgili Doktora, Hastaya Potansiyel Etkileri</td>
     <td class="tg-z8e9">Ömer Tuna Mungan</td>
     <td class="tg-gfnm">201301062</td>
   </tr>
   <tr>
-    <td class="tg-3fas">Adjusting The X-Ray Dose On The Tomography Device With Artificial Intelligence</td>
+    <td class="tg-4p2o">Adjusting The X-Ray Dose On The Tomography Device With Artificial Intelligence</td>
     <td class="tg-z8e9">Hande Giregiz</td>
     <td class="tg-gfnm">181701038</td>
   </tr>
   <tr>
-    <td class="tg-3fas">Dosimetry Methods: Thermoluminescence And İonization Chambers: Advantages And Disadvantages</td>
+    <td class="tg-4p2o">Dosimetry Methods: Thermoluminescence And İonization Chambers: Advantages And Disadvantages</td>
     <td class="tg-z8e9">Ravza Nur Ceran</td>
     <td class="tg-gfnm">191701005</td>
   </tr>
   <tr>
-    <td class="tg-3fas">PET Taramalarında Hastaya Verilen Radyofarmasötik Maddelerin Doz Ayarlamasının Yapay Zeka İle Belirlenmesi</td>
+    <td class="tg-4p2o">PET Taramalarında Hastaya Verilen Radyofarmasötik Maddelerin Doz Ayarlamasının Yapay Zeka İle Belirlenmesi</td>
     <td class="tg-z8e9">Yüşa Apaydın<br>Ayda Sarıönder</td>
     <td class="tg-gfnm">181701039<br>191701004</td>
   </tr>
   <tr>
-    <td class="tg-3fas">Sağlık Alanında İzotop Kullanımı</td>
+    <td class="tg-4p2o">Sağlık Alanında İzotop Kullanımı</td>
     <td class="tg-z8e9">Ecem Duran<br>Beyza Topaçlı</td>
     <td class="tg-gfnm">191701030<br>191701013</td>
   </tr>
   <tr>
-    <td class="tg-3fas">Tiroid Kanserinde Biomarkerlarla Diagnosis</td>
-    <td class="tg-emon">Ecem Berfi Canyurt</td>
+    <td class="tg-4p2o">Tiroid Kanserinde Biomarkerlarla Diagnosis</td>
+    <td class="tg-z8e9">Ecem Berfi Canyurt</td>
     <td class="tg-gfnm">181701037</td>
   </tr>
   <tr>
-    <td class="tg-3fas">Geiger Sayaçları, Çalışma Prensipleri Ve Donanımı</td>
-    <td class="tg-emon">Cengiz Sinan Kostakoğlu</td>
+    <td class="tg-4p2o">Geiger Sayaçları, Çalışma Prensipleri Ve Donanımı</td>
+    <td class="tg-z8e9">Cengiz Sinan Kostakoğlu</td>
     <td class="tg-gfnm">231711004</td>
   </tr>
   <tr>
-    <td class="tg-4fps">Radiation Protection Strategies for Space Travel and Exploration</td>
-    <td class="tg-rbwf">Andaç Budak<br>Ege Kırıcı<br>Başar Çiçek</td>
-    <td class="tg-j4pq">191701028</td>
+    <td class="tg-4p2o">Radiation Protection Strategies for Space Travel and Exploration</td>
+    <td class="tg-z8e9">Andaç Budak<br>Ege Kırıcı<br>Başar Çiçek</td>
+    <td class="tg-j4pq">191701028<br>201701032<br>201701038</td>
   </tr>
   <tr>
-    <td class="tg-da41">Radiation Shielding Materials: Enhancing Safety in Nuclear Environments</td>
-    <td class="tg-rbwf">Begüm Gönen</td>
+    <td class="tg-cbi0">Radiation Shielding Materials: Enhancing Safety in Nuclear Environments</td>
+    <td class="tg-z8e9">Begüm Gönen</td>
     <td class="tg-j4pq">201701034</td>
   </tr>
   <tr>
-    <td class="tg-49yp">Radiation-induced Late Effects: Long-term Consequences and Mitigation Strategies</td>
-    <td class="tg-sjcv">Fatma Aybike Bitirik</td>
+    <td class="tg-3iuw">Radiation-induced Late Effects: Long-term Consequences and Mitigation Strategies</td>
+    <td class="tg-mz41">Fatma Aybike Bitirik</td>
     <td class="tg-dkf2">191701016</td>
   </tr>
   <tr>
-    <td class="tg-49yp">Novel Imaging Techniques in Nuclear Medicine</td>
-    <td class="tg-sjcv">Fatmanur Yılmaz</td>
+    <td class="tg-3iuw">Novel Imaging Techniques in Nuclear Medicine</td>
+    <td class="tg-mz41">Fatmanur Yılmaz</td>
     <td class="tg-dkf2">191701019</td>
   </tr>
   <tr>
-    <td class="tg-49yp">Advancements in Radiation Oncology: From Conventional to Modern Treatment Modalities</td>
-    <td class="tg-sjcv">Hacer Orhan</td>
+    <td class="tg-3iuw">Advancements in Radiation Oncology: From Conventional to Modern Treatment Modalities</td>
+    <td class="tg-mz41">Hacer Orhan</td>
     <td class="tg-dkf2">201701027</td>
   </tr>
   <tr>
-    <td class="tg-49yp">Radiation-induced DNA Damage and Repair Mechanisms: Implications for Cancer Therapy</td>
-    <td class="tg-sjcv">Kartal Kemal Özen</td>
+    <td class="tg-3iuw">Radiation-induced DNA Damage and Repair Mechanisms: Implications for Cancer Therapy</td>
+    <td class="tg-mz41">Kartal Kemal Özen</td>
     <td class="tg-dkf2">191701026</td>
   </tr>
   <tr>
-    <td class="tg-49yp">Impact of Patient Positioning on Dosimetric Accuracy in Stereotactic Body Radiation Therapy (SBRT)</td>
-    <td class="tg-sjcv">Ömer Tuna Mungan</td>
+    <td class="tg-3iuw">Impact of Patient Positioning on Dosimetric Accuracy in Stereotactic Body Radiation Therapy (SBRT)</td>
+    <td class="tg-mz41">Ömer Tuna Mungan</td>
     <td class="tg-dkf2">201301062</td>
   </tr>
   <tr>
-    <td class="tg-49yp">Optical Coherence Tomography (OCT) in Radiation Therapy: Imaging Microscopic Changes</td>
-    <td class="tg-sjcv">Pelin Başak Zor</td>
+    <td class="tg-3iuw">Optical Coherence Tomography (OCT) in Radiation Therapy: Imaging Microscopic Changes</td>
+    <td class="tg-mz41">Pelin Başak Zor</td>
     <td class="tg-dkf2">191701027</td>
   </tr>
   <tr>
-    <td class="tg-49yp">Radiation Exposure in Aviation: Monitoring and Minimizing Health Risks for Aircrew</td>
-    <td class="tg-sjcv">Sadettin Bora Koçyiğit</td>
+    <td class="tg-3iuw">Radiation Exposure in Aviation: Monitoring and Minimizing Health Risks for Aircrew</td>
+    <td class="tg-mz41">Sadettin Bora Koçyiğit</td>
     <td class="tg-dkf2">191701001</td>
   </tr>
   <tr>
-    <td class="tg-49yp">Optimizing Beam Angles in Intensity-Modulated Radiation Therapy (IMRT) for Head and Neck Cancers</td>
-    <td class="tg-sjcv">Seray Erdoğan</td>
-    <td class="tg-dkf2">201701029</td>
-  </tr>
-  <tr>
-    <td class="tg-49yp">Investigating the Efficacy of Cone Beam CT in Image-Guided Radiation Therapy (IGRT)</td>
-    <td class="tg-sjcv">Yaren Aşık</td>
+    <td class="tg-3iuw">Investigating the Efficacy of Cone Beam CT in Image-Guided Radiation Therapy (IGRT)</td>
+    <td class="tg-mz41">Yaren Aşık</td>
     <td class="tg-dkf2">191701010</td>
   </tr>
   <tr>
-    <td class="tg-49yp">Optimizing Radiation Dose in Computed Tomography (CT) Imaging for Pediatric Patients</td>
-    <td class="tg-sjcv">Yiğit Mehmet Uzunkaya</td>
+    <td class="tg-3iuw">Optimizing Radiation Dose in Computed Tomography (CT) Imaging for Pediatric Patients</td>
+    <td class="tg-mz41">Yiğit Mehmet Uzunkaya</td>
     <td class="tg-dkf2">191701012</td>
   </tr>
 </tbody>
-</table>
+</table></div>
 
 
 
