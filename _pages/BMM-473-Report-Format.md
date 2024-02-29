@@ -15,7 +15,7 @@ The content of the project report should be arranged in the following order:
 
 **Cover** **Page**
 
-The last section contains the cover template, which should include the project name and authors.
+It should include the project name and authors. There is an example provided in the DOCX document.
 
 **Preface**
 
