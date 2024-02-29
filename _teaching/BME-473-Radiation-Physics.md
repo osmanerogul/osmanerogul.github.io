@@ -104,19 +104,14 @@ Link to [Project Document Layout Page]({{ osmanerogul.github.io }}/BMM-473-Proje
     <td class="tg-j4pq">191701028<br>201701032<br>201701038</td>
   </tr>
   <tr>
-    <td class="tg-cbi0">Radiation Shielding Materials: Enhancing Safety in Nuclear Environments</td>
-    <td class="tg-z8e9">Begüm Gönen</td>
-    <td class="tg-j4pq">201701034</td>
+    <td class="tg-4p2o">Radiation Shielding Materials: Enhancing Safety in Nuclear Environments</td>
+    <td class="tg-z8e9">Begüm Gönen<br>Fatmanur Yılmaz</td>
+    <td class="tg-j4pq">201701034<br>191701019</td>
   </tr>
   <tr>
-    <td class="tg-he48"><span style="color:#000">Radiation-induced DNA Damage and Repair Mechanisms: Implications for Cancer Therapy</span></td>
+    <td class="tg-he48">Radiation-induced DNA Damage and Repair Mechanisms: Implications for Cancer Therapy</span></td>
     <td class="tg-mz41">Fatma Aybike Bitirik<br>Kartal Kemal Özen<br>Hacer Orhan</td>
     <td class="tg-dkf2">191701016<br>191701026<br>201701027</td>
-  </tr>
-  <tr>
-    <td class="tg-3iuw">Novel Imaging Techniques in Nuclear Medicine</td>
-    <td class="tg-mz41">Fatmanur Yılmaz</td>
-    <td class="tg-dkf2">191701019</td>
   </tr>
   <tr>
     <td class="tg-3iuw">Optical Coherence Tomography (OCT) in Radiation Therapy: Imaging Microscopic Changes</td>
