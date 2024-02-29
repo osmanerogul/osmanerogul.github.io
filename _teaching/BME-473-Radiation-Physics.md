@@ -69,12 +69,12 @@ Link to [Project Document Layout Page]({{ osmanerogul.github.io }}/BMM-473-Proje
     <td class="tg-gfnm">201301062</td>
   </tr>
   <tr>
-    <td class="tg-4p2o">Adjusting The X-Ray Dose On The Tomography Device With Artificial Intelligence</td>
+    <td class="tg-4p2o">Adjusting The X-Ray Dose On The Tomography Device with Artificial Intelligence</td>
     <td class="tg-z8e9">Hande Giregiz</td>
     <td class="tg-gfnm">181701038</td>
   </tr>
   <tr>
-    <td class="tg-4p2o">Dosimetry Methods: Thermoluminescence And İonization Chambers: Advantages And Disadvantages</td>
+    <td class="tg-4p2o">Dosimetry Methods: Thermoluminescence and Ionization Chambers: Advantages and Disadvantages</td>
     <td class="tg-z8e9">Ravza Nur Ceran</td>
     <td class="tg-gfnm">191701005</td>
   </tr>
@@ -89,7 +89,7 @@ Link to [Project Document Layout Page]({{ osmanerogul.github.io }}/BMM-473-Proje
     <td class="tg-gfnm">191701030<br>191701013</td>
   </tr>
   <tr>
-    <td class="tg-4p2o">Biomarkers used in Thyroid Cancer Imagining</td>
+    <td class="tg-4p2o">Biomarkers Used in Thyroid Cancer Imagining</td>
     <td class="tg-z8e9">Ecem Berfi Canyurt</td>
     <td class="tg-gfnm">181701037</td>
   </tr>
