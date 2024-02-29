@@ -109,7 +109,7 @@ Link to [Project Document Layout Page]({{ osmanerogul.github.io }}/BMM-473-Proje
     <td class="tg-j4pq">201701034<br>191701019</td>
   </tr>
   <tr>
-    <td class="tg-he48">Radiation-induced DNA Damage and Repair Mechanisms: Implications for Cancer Therapy</span></td>
+    <td class="tg-4p2o">Radiation-induced DNA Damage and Repair Mechanisms: Implications for Cancer Therapy</td>
     <td class="tg-mz41">Fatma Aybike Bitirik<br>Kartal Kemal Özen<br>Hacer Orhan</td>
     <td class="tg-dkf2">191701016<br>191701026<br>201701027</td>
   </tr>
