@@ -11,7 +11,7 @@ You can [get the DOCX]({{ osmanerogul.github.io }}/documents/BMM-473-Report-Form
 
 The project report can be created in either **MS Word** or **LaTeX** environment. If you prefer to prepare your report in LaTex format, please send an e-mail to (<mertcanozdemir@etu.edu.tr>) and we will create a suitable format for you. Please note that this document has been designed for Ms Word documentation.
 
-The project have to be sent in **MS Word** or **LaTeX** format to <mertcanozdemir@etu.edu.tr> or <mertcanozdemir@gmail.com>. If you have trouble sending a docx file via email, compress the Word or Latex document and send it.
+The project have to be sent in **MS Word** or **LaTeX** format to <mertcanozdemir@etu.edu.tr> or <mertcanozdemir@gmail.com>. If you have trouble sending a docx or tex file via email, compress the Word or Latex document and then send it.
 
 The content of the project report should be arranged in the following order:
 
